@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 from PyQt5.QtWidgets import QApplication, QWidget
 from PyQt5.QtWidgets import QMessageBox, QInputDialog
-from gui import Ui_Widget
+from gui import *
 
 
 class Zadania(QWidget, Ui_Widget):
