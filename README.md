@@ -1,0 +1,2 @@
+# pyqtapp
+ Informatyka
